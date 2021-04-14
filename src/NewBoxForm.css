@@ -1,0 +1,18 @@
+.NewBoxForm {
+    padding-bottom: 20px;
+}
+
+.NewBoxForm-inputDiv {
+    padding: 5px;
+}
+
+.NewBoxForm input {
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.NewBoxForm button {
+    border-radius: 5px;
+    padding: 5px;
+    background-color: lightcoral
+}

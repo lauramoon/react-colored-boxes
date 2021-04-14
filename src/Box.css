@@ -1,0 +1,20 @@
+.Box {
+    margin: auto;
+    width: 500px;
+    position: relative;
+}
+
+.Box-div {
+    margin: auto;
+}
+
+.Box-button-div {
+    position: absolute;
+    top: 20%;
+    right: 0;
+}
+
+.Box button {
+    border-radius: 5px;
+    width: 25px;
+}
