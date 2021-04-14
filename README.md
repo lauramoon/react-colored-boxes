@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Want to stack colored boxes on your screen? This is your app!
+
 ## Available Scripts
 
-In the project directory, you can run:
+First, clone this repo. In the project directory, you can run:
 
 ### `npm start`
 
